@@ -1,0 +1,1 @@
+Ohm's Law deals with the relationship between voltage and current in an ideal conductor. This relationship states that: The potential difference (voltage) across an ideal conductor is proportional to the current through it. The constant of proportionality is called the "resistance", R.

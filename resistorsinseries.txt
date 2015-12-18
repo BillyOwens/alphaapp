@@ -1,0 +1,1 @@
+Imagine two or more resistors in series, i.e. connected one after another so that the same current flows through them. The total resistance of the collection is the sum of individual resistances. Suppose a current i flows through the resistances.
